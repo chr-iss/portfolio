@@ -1,5 +1,4 @@
 // ================================
-// COMPLETE JAVASCRIPT WITH PDF DEBUGGING
 // ================================
 document.addEventListener('DOMContentLoaded', function () {
 
