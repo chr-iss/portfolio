@@ -57,18 +57,6 @@ Or simply visit the live site:
 
 ---
 
-## 📁 Project Structure
-
-```
-portfolio/
-│
-├── assets/
-├── css/
-├── js/
-├── images/
-├── index.html
-└── README.md
-```
 
 ---
 
